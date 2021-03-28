@@ -1,3 +1,6 @@
+// COMPLETE CHECKSUM ELABORATION:- https://www.youtube.com/watch?v=SkJWDOUJJwA
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
