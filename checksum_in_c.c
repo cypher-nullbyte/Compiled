@@ -181,4 +181,3 @@ int main()
     }
     checksumChk(data,n,k);
 }
-© 2021 GitHub, Inc.
